@@ -4,7 +4,7 @@
 - 📖 Estudando java script 
 - 😄 Pronomes: ele/dele
 
-![gnx98 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gnx98&show_icons=true&theme=gruvbox&hide=prs,issues)      ![gnx98 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraax&layout=compact&langs_count=8&theme=gruvbox)
+![gnx98 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=giovaninogueira2217&show_icons=true&theme=gruvbox&hide=prs,issues)      ![giovaninogueira2217 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaninogueira2217&layout=compact&langs_count=8&theme=gruvbox)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
