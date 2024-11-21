@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 📖 Estudando java script 
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 ![gnx98 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gnx98&show_icons=true&theme=gruvbox&hide=prs,issues)      ![gnx98 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraax&layout=compact&langs_count=8&theme=gruvbox)
 
